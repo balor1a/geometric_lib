@@ -89,8 +89,9 @@ def  perimeter(a, b, c):
 ``` 
 
 ## История изменение проекта
-- 17ac9fb
-- e89cab4 
+- commit [e89cab4](https://github.com/KulEDmitr/geometric_lib/commit/e89cab476b065171e696dc209ac6a2ff4652b83b) : added new file
+- commit [17ac9fd](https://github.com/KulEDmitr/geometric_lib/commit/17ac9fbb77796f7aed596f371de7f4ad3b22a2c6) : fixed file
+
 
 
 
